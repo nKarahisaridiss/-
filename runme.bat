@@ -1,3 +1,3 @@
 del *out*.txt
-java -jar test.jar
+java -jar Theoria_Pliroforias.jar
 pause
